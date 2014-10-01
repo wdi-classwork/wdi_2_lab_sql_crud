@@ -16,12 +16,12 @@
 -- to specify where the transaction was made
 
 
--- Insert 20 rows into the payments table
+-- Insert 5 rows into the payments table
 -- The first of these payments should be deposits
 -- try to keep the accounts positive and have at least three different payers.
 
 
--- You receive notice that the payment with id of 9 is $10 too low.
+-- You receive notice that the payment with id of 4 is $10 too low.
 -- Alter that row so that it is corrected
 
 
